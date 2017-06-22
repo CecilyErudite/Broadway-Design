@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+.backgroundimg {
+  background-image: url("/Users/Riya/Dropbox/Projects/Broadway/Resources/images/the-flatiron-building.png");
+  color: white;
+}
+
+h1 {
+  font-size 70px;
+  font-weight: bold;
+}
+
+ul {
+  font-size: 18px;
+  list-style-type: none;
+  color: pink;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
